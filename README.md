@@ -1,4 +1,4 @@
-Hi, I’m Ephesians Ochieng'
+I’m Ephesians Ochieng'
 interested in learnig and improving my skills
 currently learning  software engineering at The Cooperative University of Kenya
 looking forward learning new ideas
