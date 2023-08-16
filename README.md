@@ -1,6 +1,6 @@
 # 💫 About Me:
 Software Engineering Student at AlX SE programme . Aspring to be the greatest software engineer.
-Reach me also through my [Jussie](./https://github.com/ci-cada) account with other projects
+Reach me also through my [Jussie](https://github.com/ci-cada) account with other projects
 
 # 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_cooder) 
